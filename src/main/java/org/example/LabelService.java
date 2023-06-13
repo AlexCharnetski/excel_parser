@@ -18,9 +18,6 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 public class LabelService {
-
-//    private static final String FILE_NAME_WITH_LABELS_FROM_QA_ORG = "d:/forte/salesforce/projects/suzohapp/web_storm/suzo_qa/force-app/main/default/labels/CustomLabels.labels-meta.xml";
-//    private static final String FILE_NAME_WITH_TRANSLATION_LABELS = "d:/Translations.xlsx";
     private static final String TAG_NAME_LABELS = "labels";
     private static final String TAG_NAME_FULL_NAME = "fullName";
     private static final String SHEET_NAME_FIELD_VALUES = "Filed Values";
